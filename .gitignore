@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore OS generated files
+.DS_Store
+**/.DS_Store
